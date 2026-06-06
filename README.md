@@ -11,3 +11,5 @@ A batch traceability and certificate management system.
 - React
 - Flask
 - MongoDB
+
+Setup — coming soon
